@@ -1,1 +1,3 @@
 # Lab1Microservices
+
+Microservices architecture (MSA) allows companies to develop, deploy, and scale different parts of their applications independently, which can make them more flexible and able to handle growth. However, adopting MSA comes with challenges like changing company culture, dealing with technical complexities, and needing advanced agile and DevOps practices. Companies thinking about using MSA need to carefully assess if they're ready for it and if it aligns with their business goals. They might also consider simpler alternatives like miniservices or low-code development. It's best to take a practical and step-by-step approach to MSA adoption, focusing on areas where it can bring the most benefits while managing any risks.
